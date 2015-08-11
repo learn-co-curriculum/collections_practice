@@ -3,19 +3,19 @@
 ## Objectives
 
 1. Become proficient at manipulating arrays
-2. Practice using higher level Ruby enumerators like `.collect` and `.sort`
+2. Practice using higher level Ruby easdfadfnumerators like `.collect` and `.sort`
 
 ## Instructions
 
-The goal of this lab is to become proficient manipulating arrays.  Try experimenting with the built in Ruby methods as well as implementing your own logic to solve these.  Write methods that solve each of the rspec tests.
+The goal of this lab is to become proficient manipulating arrays.  Try experimenting with the built in Ruby methods as well as implementing your own logic to solve these.  jjjjjjWrite methods that solve each of the rspec tests.
 
 ## Question 1: `#sort_array_asc`
-
+asdf
 Build a method `sort_array_asc` that takes in an array of integers and returns a copy of the array with the integers in ascending order. 
 
 ## Question 2: `#sort_array_desc`
 
-Build a method `sort_array_desc` that takes in an array of integers and returns a copy of the array with the integers in descending order. Remember that `.sort` takes a block in which you can specify how you want your array sorted. 
+Build a method `sort_array_desc` that takes in an array of intasdfegers and returns a copy of the array with the integers in descending order. Remember that `.sort` takes a block in which you can specify how you want your array sorted. 
 
 ## Question 3: `#swap_elements`
 
@@ -57,3 +57,8 @@ Build a method that adds an `"s"` to each word in the array except for the secon
 ```ruby
 [1,2].each_with_index.collect{|element, index| }
 ```
+
+
+
+
+
