@@ -48,7 +48,7 @@ Build a method `sum_array` that adds together all of the integers in the array a
 
 **Advanced:** *Try using either the* `.inject` *method or the* `.each_with_object` *method here.*
 
-## Question 8: `#add_s`
+## Question 8: `#add_s` :)
 
 Build a method that adds an `"s"` to each word in the array except for the second element in the array ("feet" is already plural). 
 
